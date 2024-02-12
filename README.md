@@ -5,7 +5,8 @@
 
 
 
-- 🔭 I’m currently working on a CRM
+- 🔭 I’m currently working on a <a href="">CRM</a>
+- 👨‍💻 All of my projects are available at [NidalChateur](https://github.com/NidalChateur?tab=repositories)
 - 🌱 I’m currently learning the React Framework
 - 💬 Ask me about Python development and Web development
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/nidal-chateur-a9aa8a1b5/">Linkedin</a>
@@ -51,8 +52,11 @@
 [![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white)](https://www.heroku.com/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/fr/)
 
+## 📈 Stats
+
+<!-- most used langages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NidalChateur&show_icons=true&locale=en&layout=compact" alt="most used langages" /></p>
 
 
-
-
-
+<!-- github stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NidalChateur&show_icons=true&locale=en" alt="github stats" /></p>

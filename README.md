@@ -1,7 +1,7 @@
 <img src="./python.gif">
 
 <h1 align="center">Hi 👋, I'm Nidal Chateur</h1>
-<h3 align="center">Professional developer from Paris, France.</h3>
+<h3 align="center">Passionate developer from Paris, France.</h3>
 
 
 

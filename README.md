@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a <a href="https://github.com/NidalChateur/OC_P12_EPIC_EVENTS_CLI">CRM</a>
+- 🔭 I’m currently learning React.js
 - 👨‍💻 All of my projects are available at [NidalChateur](https://github.com/NidalChateur?tab=repositories)
 - 🌱 I’m currently learning the React Framework
 - 💬 Ask me about Python development and Web development

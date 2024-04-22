@@ -45,9 +45,9 @@
 [![Sass](https://img.shields.io/badge/Tool-Sass-informational?style=flat&logo=Sass&logoColor=white&color=purple)](https://sass-lang.com/)
 [![POSTMAN](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=POSTMAN&logoColor=white&color=purple)](https://www.postman.com/)
 
-[![Render](https://img.shields.io/badge/Cloud-Render-informational?style=flat&logo=Render&logoColor=white&color=C300EA)](https://render.com/)
-[![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=C300EA)](https://www.heroku.com/)
-[![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=C300EA)](https://aws.amazon.com/fr/)
+[![Render](https://img.shields.io/badge/Cloud-Render-informational?style=flat&logo=Render&logoColor=white&color=3300D3)](https://render.com/)
+[![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=3300D3)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=3300D3)](https://aws.amazon.com/fr/)
 
 ## 📈 Stats
 

@@ -30,14 +30,14 @@
 [![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=black)](https://www.mysql.com/fr/)
 [![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=black)](https://www.postgresql.org/)
 
-[![Django](https://img.shields.io/badge/Framework-django-informational?style=flat&logo=django&logoColor=white&color=green)](https://www.djangoproject.com/)
-[![Django REST](https://img.shields.io/badge/Framework-djangoRest-informational?style=flat&logo=django&logoColor=white&color=green)](https://www.django-rest-framework.org/)
-[![Flask](https://img.shields.io/badge/Framework-flask-informational?style=flat&logo=flask&logoColor=white&color=green)](https://flask.palletsprojects.com/en/3.0.x/)
-[![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=green)](https://fastapi.tiangolo.com/)
-[![Pytest](https://img.shields.io/badge/Framework-pytest-informational?style=flat&logo=pytest&logoColor=white&color=green)](https://docs.pytest.org/en/8.0.x/)
-[![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=green)](https://getbootstrap.com/)
-[![SQLAlchemy](https://img.shields.io/badge/Library-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=green)](https://www.sqlalchemy.org/)
-[![BS4](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&color=green)](https://www.crummy.com/software/BeautifulSoup/)
+[![Django](https://img.shields.io/badge/Framework-django-informational?style=flat&logo=django&logoColor=white&color=36D653)](https://www.djangoproject.com/)
+[![Django REST](https://img.shields.io/badge/Framework-djangoRest-informational?style=flat&logo=django&logoColor=white&color=36D653)](https://www.django-rest-framework.org/)
+[![Flask](https://img.shields.io/badge/Framework-flask-informational?style=flat&logo=flask&logoColor=white&color=36D653)](https://flask.palletsprojects.com/en/3.0.x/)
+[![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=36D653)](https://fastapi.tiangolo.com/)
+[![Pytest](https://img.shields.io/badge/Framework-pytest-informational?style=flat&logo=pytest&logoColor=white&color=36D653)](https://docs.pytest.org/en/8.0.x/)
+[![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=36D653)](https://getbootstrap.com/)
+[![SQLAlchemy](https://img.shields.io/badge/Library-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=36D653)](https://www.sqlalchemy.org/)
+[![BS4](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat&color=36D653)](https://www.crummy.com/software/BeautifulSoup/)
 
 [![Git](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&logoColor=white&color=purple)](https://github.com/)
 [![CircleCI](https://img.shields.io/badge/Tool-CircleCI-informational?style=flat&logo=CircleCI&logoColor=white&color=purple)](https://circleci.com/)
@@ -46,9 +46,9 @@
 [![Sass](https://img.shields.io/badge/Tool-Sass-informational?style=flat&logo=Sass&logoColor=white&color=purple)](https://sass-lang.com/)
 [![POSTMAN](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=POSTMAN&logoColor=white&color=purple)](https://www.postman.com/)
 
-[![Render](https://img.shields.io/badge/Cloud-Render-informational?style=flat&logo=Render&logoColor=white&color=yellow)](https://render.com/)
-[![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=yellow)](https://www.heroku.com/)
-[![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=yellow)](https://aws.amazon.com/fr/)
+[![Render](https://img.shields.io/badge/Cloud-Render-informational?style=flat&logo=Render&logoColor=white&color=orange)](https://render.com/)
+[![Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=orange)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=orange)](https://aws.amazon.com/fr/)
 
 ## 📈 Stats
 

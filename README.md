@@ -4,6 +4,7 @@
 
 <!-- - 🌱 I’m currently learning the React Framework -->
 <!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning Microsoft Power Platform 
 - 👨‍💻 All of my projects are available at [NidalChateur](https://github.com/NidalChateur?tab=repositories)
 - 💬 Ask me about Python development and Web development
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/nidal-chateur-a9aa8a1b5/">Linkedin</a>
